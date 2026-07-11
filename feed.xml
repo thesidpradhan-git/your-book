@@ -3,4 +3,11 @@
 <title>Your Old School Neighbour</title>
 <link>https://thesidpradhan-git.github.io/your-book</link>
 <description>Free reads</description>
+<item>
+<title>Test2</title>
+<link>https://thesidpradhan-git.github.io/your-book/test2.html</link>
+<guid isPermaLink="false">bookforge-test2</guid>
+<pubDate>Sat, 11 Jul 2026 21:17:38 -0000</pubDate>
+<description>The riverfront buzz of high summer—the mingling crowds, the current of humanity against the steady flow of the Chicago River—transformed the simple walk into an electric, unforgettable spectacle.</description>
+</item>
 </channel></rss>
