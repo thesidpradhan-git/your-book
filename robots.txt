@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thesidpradhan-git.github.io/your-book/sitemap.xml
